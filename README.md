@@ -1,7 +1,14 @@
+
 ### Hi there 👋
 
-<!--
-**DreamPearl/DreamPearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Blogs](https://rakhiroriya.wordpress.com/)
+
+![](https://komarev.com/ghpvc/?username=DreamPearl&style=flat-square&color=blueviolet)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blueviolet)](https://www.linkedin.com/in/dreampearl/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=blueviolet)](https://twitter.com/IAmDreamPearl)
+
+
+<!-- **DreamPearl/DreamPearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
